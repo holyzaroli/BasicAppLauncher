@@ -1,3 +1,6 @@
+To install this on ur pc or test it or whatever if you want to use installer.iss if you have innosetup you can just put everything in a folder in documents called "BasicAppLauncherInstallerSource" and it should work im not sure tho
+
+
 Hello, This is a desktop app launcher, intended to "replace" the start menu, also being much faster than the start menu, and also doubling as a stylish background.
 Unfortunately, apps like Wallpaper Engine and other apps like it will not work with this app.
 To change the font, simply go to C:\Windows\Fonts and then copy and paste a font from there or you can use Google Fonts, which usually gives you a .zip file once you download a font
@@ -16,4 +19,5 @@ DO NOT USE THIS DIRECTORY
 DO DOUBLE BACK SLASHES INSTEAD OF ONE ALWAYS, otherwise the app will not work
 This directory is a random directory that I copied and pasted because at the time of writing this I'm watching an anime and also actively making the installer for this program
 I HAVE NOT TESTED THIS ON WINDOWS VERSIONS PREVIOUS TO WINDOWS 11, USE AT YOUR OWN RISK
+
 I also have not tested the automatic startup feature, so also use at your own risk
